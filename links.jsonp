@@ -1,0 +1,23 @@
+callback([
+
+  {
+    "text": "Scared of failing?",
+    "href": "http://gaganmaheshwari.github.io/quotes/are-you-so-scared-of-failing"
+  } ,
+
+  {
+    "text": "Attitude determines altitude",
+    "href": "http://gaganmaheshwari.github.io/quotes/attitude-determines-altitude"
+  } ,
+
+  {
+    "text": "No is not an answer",
+    "href": "http://gaganmaheshwari.github.io/quotes/no-is-not-an-answer"
+  } ,
+
+  {
+    "text": "Starting your day without a plan",
+    "href": "http://gaganmaheshwari.github.io/quotes/starting-your-day-without-a-plan"
+  } 
+
+])
