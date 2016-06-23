@@ -23,6 +23,15 @@ h1 {
   line-height: 48px;
   margin-bottom: 24px;
 }
+
+h1 a {
+  color: #807f83;
+}
+
+h1 a:hover {
+  color:  #737373;
+}
+
 h1 small {
   font-size: 26px;
 }
@@ -560,7 +569,13 @@ html {
   max-width: 100%;
   margin-bottom: 24px;
   border-radius: 5px;
+  text-align: justify;
 }
+
+.page-body p {
+  text-align: justify;
+}
+
 /* - Post Share - */
 .post-share {
   margin-bottom: 48px;
