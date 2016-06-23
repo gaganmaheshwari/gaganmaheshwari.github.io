@@ -2,40 +2,48 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
      
     <url>
-        <loc>http://gaganmaheshwari.github.io/</loc>
+        <loc>http://www.gaganmaheshwari.com/</loc>
     </url> 
     <url>
-        <loc>http://gaganmaheshwari.github.io/gagan-maheshwari</loc>
+        <loc>http://www.gaganmaheshwari.com/gagan-maheshwari</loc>
     </url> 
     <url>
-        <loc>http://gaganmaheshwari.github.io/quotes</loc>
+        <loc>http://www.gaganmaheshwari.com/quotes</loc>
     </url> 
     <url>
-        <loc>http://gaganmaheshwari.github.io/categories</loc>
+        <loc>http://www.gaganmaheshwari.com/categories</loc>
     </url> 
     <url>
-        <loc>http://gaganmaheshwari.github.io/tags</loc>
+        <loc>http://www.gaganmaheshwari.com/tags</loc>
     </url>
     
     
     <url>
-        <loc>http://gaganmaheshwari.github.io/quotes/life-is-not-a-bed-of-roses</loc>
+        <loc>http://www.gaganmaheshwari.com/quotes/life-is-not-a-bed-of-roses</loc>
     </url>
     
     <url>
-        <loc>http://gaganmaheshwari.github.io/quotes/starting-your-day-without-a-plan</loc>
+        <loc>http://www.gaganmaheshwari.com/a-rat-race</loc>
     </url>
     
     <url>
-        <loc>http://gaganmaheshwari.github.io/quotes/no-is-not-an-answer</loc>
+        <loc>http://www.gaganmaheshwari.com/a-rat-race..</loc>
     </url>
     
     <url>
-        <loc>http://gaganmaheshwari.github.io/quotes/attitude-determines-altitude</loc>
+        <loc>http://www.gaganmaheshwari.com/quotes/starting-your-day-without-a-plan</loc>
     </url>
     
     <url>
-        <loc>http://gaganmaheshwari.github.io/quotes/are-you-so-scared-of-failing</loc>
+        <loc>http://www.gaganmaheshwari.com/quotes/no-is-not-an-answer</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.gaganmaheshwari.com/quotes/attitude-determines-altitude</loc>
+    </url>
+    
+    <url>
+        <loc>http://www.gaganmaheshwari.com/quotes/are-you-so-scared-of-failing</loc>
     </url>
     
 </urlset>
