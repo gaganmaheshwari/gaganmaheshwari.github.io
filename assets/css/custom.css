@@ -1,0 +1,179 @@
+/* 
+Custom Overrides on top of the base theme. 
+This makes the CSS easily upgradeable 
+**/
+
+h1 a {
+  color: #807f83;
+}
+h1 a:hover {
+  color:  #737373;
+}
+
+blockquote p {
+  font-size:17.5px;
+  line-height: 1.71428571;
+}
+
+blockquote:before {
+  content: "";
+  position: absolute;
+  top: 12px;
+  bottom: 12px;
+  left: -24px;
+  width: 4px;
+}
+
+/* To fix the Facebook Share button alignment issue */
+.fb-like.fb_iframe_widget span{
+  top: 2px;
+  vertical-align: top !important;
+}
+
+/* Fix the width of google plus button */
+[id^=___plusone] { width:72px !important; }
+
+.hyper {
+  font-size: 50px;
+}
+
+a {
+  color: #2200CC;
+  border-color: #2200CC;
+}
+a:hover {
+  color: #3333ff;
+  border-color: #3333ff;
+  text-decoration: underline;
+}
+
+h2 a {
+  color: #737373;
+}
+
+h2 a:hover {
+  color: #8c8c8c;
+  border-color: #8c8c8c;
+  text-decoration: underline;
+}
+
+#footer navbar.a {
+  color: black;
+}
+
+/* - Blog and post headers - */
+#masthead {
+  height: 40%;
+  padding: 34px 0;
+  margin-bottom: 10px;
+}
+
+.brand img {
+  max-height: 100px;
+}
+
+/* - Post title - */
+.post-title {
+  margin-top: 20px;
+}
+
+.post-title.text-center.hyper.lighter.bordered-bottom {
+  font-size: 50px;
+  font-weight: bold;
+}
+
+/* -  Post Body - */
+.post-body {
+  padding-bottom: 15px;
+  margin-bottom: 20px;
+}
+
+.page-body img {
+  text-align: justify;
+}
+
+.page-body p {
+  text-align: justify;
+}
+
+p {
+  margin: 0 0 25px;
+}
+
+/* ------ */
+/* FOOTER */
+/* ------ */
+#footer {
+  margin-top: 40px;
+  padding: 124px 0 0px;
+  position: relative;
+  width: 100%;
+  height: 20%;
+  display: table;
+  z-index: 1;
+}
+
+/* Social list */
+.social-icons {
+  padding: 0 0 38px;
+}
+
+.social-mini li {
+  display: inline-block;
+  font-size: 20px;
+  padding: 0 12px;
+}
+
+.social-mini a {
+  text-decoration: none;
+  /*color: #807f83;*/
+/*  color: red;*/
+}
+
+.social-mini a:hover {
+  text-decoration: none;
+}
+
+/*.nav-container2 { width:940px; margin:auto; height:30px;}
+*/
+.social-sharing { margin:auto; }
+.social-sharing ul div {display: inline;}
+.social-sharing li {display: inline; width: 110px; padding: 5px;}
+
+
+/* THEME FONTS */
+/* ----------- */
+body {
+  font-family: 'Merriweather', serif;
+  font-size: 18px;
+  line-height: 1.71428571;
+}
+
+.navbar {
+  margin: 0px;
+  padding-bottom: 0px;
+  text-align: center;
+
+}
+
+.navbar a {
+  color: black;
+  padding-bottom: 0px;
+}
+
+/* - Menu - */
+.menu-items {
+  margin: 0;
+  padding: 0 0 24px;
+  list-style-type: none;
+}
+.menu-items li {
+  margin: 10px;
+  display: inline-block;
+}
+
+a#slide:after{
+  content:"GM"
+}
+
+
