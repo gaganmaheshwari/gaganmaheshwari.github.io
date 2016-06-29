@@ -173,7 +173,18 @@ body {
 }
 
 a#slide:after{
-  content:"GM"
+  content:"";
 }
 
+a#slide {
+  background: #1abc9c;
+}
+
+a#slide:hover{
+  background: #16a085;
+}
+
+a#slide.slide:after{
+  content:"";
+}
 
