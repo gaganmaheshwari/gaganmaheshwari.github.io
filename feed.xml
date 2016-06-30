@@ -4,13 +4,36 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.gaganmaheshwari.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.gaganmaheshwari.com" />
-<updated>2016-06-28T20:35:43-07:00</updated>
+<updated>2016-06-30T11:52:12-07:00</updated>
 <id>http://www.gaganmaheshwari.com/</id>
 <author>
   <name>Gagan Maheshwari</name>
   <uri>http://www.gaganmaheshwari.com/</uri>
   <email>i@gaganmaheshwari.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[My Opinion on Patents]]></title>
+  <link>http://www.gaganmaheshwari.com/personal/my-opinion-on-patents</link>
+  <id>http://www.gaganmaheshwari.com/personal/my-opinion-on-patents</id>
+  <updated>2016-06-29T00:00:00-00:00</updated>
+  <published>2016-06-29T00:00:00-07:00</published>
+  
+  <author>
+    <name>Gagan Maheshwari</name>
+    <uri>http://www.gaganmaheshwari.com</uri>
+    <email>i@gaganmaheshwari.com</email>
+  </author>
+  <content type="html">&lt;h3 id=&quot;blogs&quot; style=&quot;color: #c91b26&quot;&gt;Patents are innovation blockers&lt;/h3&gt;
+&lt;p&gt;Patents discourage innovation. Patents also hinder the growth of free and open source software and technology.&lt;/p&gt;
+
+&lt;p&gt;Some day, I’d love to extend and update this post with more details on why I feel what I said above.&lt;/p&gt;
+
+&lt;p&gt;Until later!&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/personal/my-opinion-on-patents&quot;&gt;My Opinion on Patents&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
