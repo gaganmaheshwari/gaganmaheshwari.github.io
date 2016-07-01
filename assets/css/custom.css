@@ -129,6 +129,10 @@ h2 a:hover {
   box-sizing: border-box;
 }
 
+.img-responsive {
+  display: inline;
+}
+
 .brand img {
   max-height: 100px;
 }
@@ -169,6 +173,13 @@ h2 a:hover {
 
 p {
   margin: 0 0 25px;
+}
+
+/* ------ */
+/* SIDEBAR */
+/* ------ */
+#sidebar {
+  padding: 15px 0px 0;
 }
 
 /* ------ */
@@ -277,6 +288,10 @@ a#slide:after{
   content:"";
 }
 
+/* Background for the trigramme menu 
+Green: #1abc9c
+Orange: #FFB00A
+*/
 a#slide {
   background: #1abc9c;
 }
@@ -289,3 +304,29 @@ a#slide.slide:after{
   content:"";
 }
 
+/* Media Queries */
+@media (max-width: 480px) {
+  .brand img {
+    max-height: 50px;
+  }
+  .blog-title {
+    font-size: 20px;
+    line-height: 20px;
+  }
+  .blog-description {
+    display: block;
+    padding-top: 10px;
+    margin-top: 2px;
+    font-size: 14px;
+    line-height: inherit;
+  }
+  .image-credit {
+    display: block;
+  }
+}
+
+@media (max-width: 1200px) {
+  .navbar {
+    display: none;
+  }
+}

@@ -396,13 +396,7 @@ blockquote:before {
 .bordered-bottom:after {
   background-color: #cbc9cf;
 }
-.social-icons a {
-  color: #cbc9cf;
-  background-color: rgba(255, 255, 255, 0.35);
-}
-.social-icons a:hover {
-  background-color: rgba(255, 255, 255, 0.15);
-}
+
 .overlay:after {
   background-color: rgba(0, 0, 0, 0.65);
 }
