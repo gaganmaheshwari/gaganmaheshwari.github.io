@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-<title type="text">Gagan Maheshwari</title>
+
+
+<title type="text">Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.</title>
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.gaganmaheshwari.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.gaganmaheshwari.com" />
-<updated>2016-06-30T11:52:12-07:00</updated>
+<updated>2016-06-30T21:52:23-07:00</updated>
 <id>http://www.gaganmaheshwari.com/</id>
 <author>
   <name>Gagan Maheshwari</name>
-  <uri>http://www.gaganmaheshwari.com/</uri>
-  <email>i@gaganmaheshwari.com</email>
+  <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+  <email>iGaganM@mail.com</email>
 </author>
 
 
 <entry>
   <title type="html"><![CDATA[My Opinion on Patents]]></title>
-  <link>http://www.gaganmaheshwari.com/personal/my-opinion-on-patents</link>
+  <link href="http://www.gaganmaheshwari.com/personal/my-opinion-on-patents"></link>
   <id>http://www.gaganmaheshwari.com/personal/my-opinion-on-patents</id>
   <updated>2016-06-29T00:00:00-00:00</updated>
   <published>2016-06-29T00:00:00-07:00</published>
   
   <author>
     <name>Gagan Maheshwari</name>
-    <uri>http://www.gaganmaheshwari.com</uri>
-    <email>i@gaganmaheshwari.com</email>
+    <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+    <email>iGaganM@mail.com</email>
   </author>
   <content type="html">&lt;h3 id=&quot;blogs&quot; style=&quot;color: #c91b26&quot;&gt;Patents are innovation blockers&lt;/h3&gt;
 &lt;p&gt;Patents discourage innovation. Patents also hinder the growth of free and open source software and technology.&lt;/p&gt;
@@ -32,111 +34,136 @@
 
 &lt;p&gt;Until later!&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/personal/my-opinion-on-patents&quot;&gt;My Opinion on Patents&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/personal/my-opinion-on-patents&quot;&gt;My Opinion on Patents&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.&lt;/a&gt; on June 29, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Life is not a bed of roses]]></title>
-  <link>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/life-is-not-a-bed-of-roses</link>
+  <title type="html"><![CDATA[Life is not a bed of roses  - Motivational one-liner]]></title>
+  <link href="http://www.gaganmaheshwari.com/motivational-one-liner-quotes/life-is-not-a-bed-of-roses"></link>
   <id>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/life-is-not-a-bed-of-roses</id>
   <updated>2016-06-23T00:00:00-00:00</updated>
   <published>2016-06-23T00:00:00-07:00</published>
   
   <author>
     <name>Gagan Maheshwari</name>
-    <uri>http://www.gaganmaheshwari.com</uri>
-    <email>i@gaganmaheshwari.com</email>
+    <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+    <email>iGaganM@mail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;Life is neither a bed of roses nor a bed of thorns. It is what you make of it. &quot;
 &lt;small&gt;&lt;cite title=&quot;Gagan Maheshwari&quot;&gt;Gagan Maheshwari&lt;/cite&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/life-is-not-a-bed-of-roses&quot;&gt;Life is not a bed of roses&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 23, 2016.&lt;/p&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;&lt;img src=&quot;http://www.gaganmaheshwari.com/images/quotes/life-is-not-a-bed-of-roses.jpg&quot; alt=&quot;Life is not a bed of roses&quot; height=&quot;300px&quot; itemprop=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/life-is-not-a-bed-of-roses&quot;&gt;Life is not a bed of roses  - Motivational one-liner&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.&lt;/a&gt; on June 23, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Starting your day without a plan]]></title>
-  <link>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/starting-your-day-without-a-plan</link>
+  <title type="html"><![CDATA[Starting your day without a plan - Motivational one-liner]]></title>
+  <link href="http://www.gaganmaheshwari.com/motivational-one-liner-quotes/starting-your-day-without-a-plan"></link>
   <id>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/starting-your-day-without-a-plan</id>
   <updated>2016-06-21T00:00:00-00:00</updated>
   <published>2016-06-21T00:00:00-07:00</published>
   
   <author>
     <name>Gagan Maheshwari</name>
-    <uri>http://www.gaganmaheshwari.com</uri>
-    <email>i@gaganmaheshwari.com</email>
+    <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+    <email>iGaganM@mail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;Starting your day without a plan is like boarding a bus without knowing the destination.&quot;
 &lt;small&gt;&lt;cite title=&quot;Gagan Maheshwari&quot;&gt;Gagan Maheshwari&lt;/cite&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/starting-your-day-without-a-plan&quot;&gt;Starting your day without a plan&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;&lt;img src=&quot;http://www.gaganmaheshwari.com/images/quotes/plan-your-day.jpg&quot; alt=&quot;Do not start your day without a plan&quot; height=&quot;300px&quot; itemprop=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/starting-your-day-without-a-plan&quot;&gt;Starting your day without a plan - Motivational one-liner&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[No is not an answer]]></title>
-  <link>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/no-is-not-an-answer</link>
+  <title type="html"><![CDATA[No is not an answer - Motivational one-liner]]></title>
+  <link href="http://www.gaganmaheshwari.com/motivational-one-liner-quotes/no-is-not-an-answer"></link>
   <id>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/no-is-not-an-answer</id>
   <updated>2016-06-21T00:00:00-00:00</updated>
   <published>2016-06-21T00:00:00-07:00</published>
   
   <author>
     <name>Gagan Maheshwari</name>
-    <uri>http://www.gaganmaheshwari.com</uri>
-    <email>i@gaganmaheshwari.com</email>
+    <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+    <email>iGaganM@mail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;No is not an answer or an end. It’s just the beginning of a different set of questions.&quot;
 &lt;small&gt;&lt;cite title=&quot;Gagan Maheshwari&quot;&gt;Gagan Maheshwari&lt;/cite&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/no-is-not-an-answer&quot;&gt;No is not an answer&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;&lt;img src=&quot;http://www.gaganmaheshwari.com/images/quotes/No-is-not-an-answer.jpg&quot; alt=&quot;No is never the answer&quot; height=&quot;300px&quot; itemprop=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/no-is-not-an-answer&quot;&gt;No is not an answer - Motivational one-liner&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
   <title type="html"><![CDATA[Attitude determines altitude]]></title>
-  <link>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/attitude-determines-altitude</link>
+  <link href="http://www.gaganmaheshwari.com/motivational-one-liner-quotes/attitude-determines-altitude"></link>
   <id>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/attitude-determines-altitude</id>
   <updated>2016-06-21T00:00:00-00:00</updated>
   <published>2016-06-21T00:00:00-07:00</published>
   
   <author>
     <name>Gagan Maheshwari</name>
-    <uri>http://www.gaganmaheshwari.com</uri>
-    <email>i@gaganmaheshwari.com</email>
+    <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+    <email>iGaganM@mail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;Attitude determines Altitude.&quot;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/attitude-determines-altitude&quot;&gt;Attitude determines altitude&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;&lt;img src=&quot;http://www.gaganmaheshwari.com/images/quotes/Attitude-altitude.jpg&quot; alt=&quot;Attitude determines altitude&quot; height=&quot;300px&quot; itemprop=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/attitude-determines-altitude&quot;&gt;Attitude determines altitude&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 
 <entry>
-  <title type="html"><![CDATA[Scared of failing?]]></title>
-  <link>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/are-you-so-scared-of-failing</link>
+  <title type="html"><![CDATA[Scared of failing? - Motivational one-liner]]></title>
+  <link href="http://www.gaganmaheshwari.com/motivational-one-liner-quotes/are-you-so-scared-of-failing"></link>
   <id>http://www.gaganmaheshwari.com/motivational-one-liner-quotes/are-you-so-scared-of-failing</id>
   <updated>2016-06-21T00:00:00-00:00</updated>
   <published>2016-06-21T00:00:00-07:00</published>
   
   <author>
     <name>Gagan Maheshwari</name>
-    <uri>http://www.gaganmaheshwari.com</uri>
-    <email>i@gaganmaheshwari.com</email>
+    <uri>https://www.facebook.com/I.GaganMaheshwari/</uri>
+    <email>iGaganM@mail.com</email>
   </author>
   <content type="html">&lt;blockquote&gt;
   &lt;p&gt;&quot;Are you so scared of failing that you would rather give up wihout trying?&quot;
 &lt;small&gt;&lt;cite title=&quot;Gagan Maheshwari&quot;&gt;Gagan Maheshwari&lt;/cite&gt;&lt;/small&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/are-you-so-scared-of-failing&quot;&gt;Scared of failing?&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Gagan Maheshwari&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;figure&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;&lt;img src=&quot;http://www.gaganmaheshwari.com/images/quotes/so-scared-of-failing.jpg&quot; alt=&quot;Are you scared of failing?&quot; height=&quot;300px&quot; itemprop=&quot;image&quot; /&gt;&lt;/a&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://www.gaganmaheshwari.com/motivational-one-liner-quotes/are-you-so-scared-of-failing&quot;&gt;Scared of failing? - Motivational one-liner&lt;/a&gt; was originally published by Gagan Maheshwari at &lt;a href=&quot;http://www.gaganmaheshwari.com&quot;&gt;Personal musings of Gagan Maheshwari - a technophile, a polyglot, a seasoned technology leader, a change agent and an entrepreneur.&lt;/a&gt; on June 21, 2016.&lt;/p&gt;</content>
 </entry>
 
 </feed>
