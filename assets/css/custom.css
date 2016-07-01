@@ -129,12 +129,28 @@ h2 a:hover {
   box-sizing: border-box;
 }
 
-.img-responsive {
-  display: inline;
+/* - Brand - */
+.brand img {
+  padding-top: 15px;
+}
+
+/* Ensure that alt text for missing images is centered properly */
+.page-body img {
+  text-align: center;
+}
+
+/* Ensure that image related to quotes appears properly justified */
+.quote img {
+  text-align: justify; 
+  position: relative;
 }
 
 .brand img {
   max-height: 100px;
+}
+
+.img-responsive {
+  display: block;
 }
 
 /* Navbar menu bar */
@@ -161,10 +177,6 @@ h2 a:hover {
 .post-body {
   padding-bottom: 15px;
   margin-bottom: 20px;
-}
-
-.page-body img {
-  text-align: justify;
 }
 
 .page-body p {
